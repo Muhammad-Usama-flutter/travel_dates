@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684616191512",
+    "project_id": "travel-dates",
+    "storage_bucket": "travel-dates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684616191512:android:c799c706d27f1422b07d6d",
+        "android_client_info": {
+          "package_name": "com.travel.dates.cs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684616191512-5k0c5on4hjf8v7ihocercjp82hlmb0l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travel.dates.cs",
+            "certificate_hash": "07c370ef1705e7d72c6c5695e9a0ac0d68457ae7"
+          }
+        },
+        {
+          "client_id": "684616191512-n570bnivlgd3etk8vimcvt8e2s8hic0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwGZe5hUJZNsmjLZJ7H8JJdS50TNVVb0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684616191512-n570bnivlgd3etk8vimcvt8e2s8hic0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
